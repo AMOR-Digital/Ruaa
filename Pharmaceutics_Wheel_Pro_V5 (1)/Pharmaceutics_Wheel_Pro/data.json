@@ -1,0 +1,385 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "إبرار سعيد أحمد البليسي",
+      "questionId": 1
+    },
+    {
+      "id": "2",
+      "name": "إبراهيم فالح محمود الزينات",
+      "questionId": 2
+    },
+    {
+      "id": "3",
+      "name": "أرجوان وائل جميل القرعان",
+      "questionId": 3
+    },
+    {
+      "id": "4",
+      "name": "حمزة محمود عبد الله العتيلات",
+      "questionId": 4
+    },
+    {
+      "id": "5",
+      "name": "ديما أحمد عوض أبو الزينات",
+      "questionId": 5
+    },
+    {
+      "id": "6",
+      "name": "ديمة ناصر محمد الجمل",
+      "questionId": 6
+    },
+    {
+      "id": "7",
+      "name": "رزان عزيز حمدى التميمي",
+      "questionId": 7
+    },
+    {
+      "id": "8",
+      "name": "رغد مروان محمد الدسوقي",
+      "questionId": 8
+    },
+    {
+      "id": "9",
+      "name": "ريم رياض إسماعيل أبو نجا",
+      "questionId": 9
+    },
+    {
+      "id": "10",
+      "name": "رهف سليمان عابد أبو ستيتان",
+      "questionId": 10
+    },
+    {
+      "id": "11",
+      "name": "رهف محمود إسماعيل مصلح",
+      "questionId": 11
+    },
+    {
+      "id": "12",
+      "name": "ساره عبد الرحيم عز الدين قفيشه",
+      "questionId": 12
+    },
+    {
+      "id": "13",
+      "name": "سبأ علي مطر القبيلات",
+      "questionId": 13
+    },
+    {
+      "id": "14",
+      "name": "عبد المجيد صالح محمد عدوان",
+      "questionId": 14
+    },
+    {
+      "id": "15",
+      "name": "عبير خليل إبراهيم حمدان",
+      "questionId": 15
+    },
+    {
+      "id": "16",
+      "name": "عرين علاء ضيف الله الرواجيح القيوم",
+      "questionId": 16
+    },
+    {
+      "id": "17",
+      "name": "لجين محمود غندور البشيش",
+      "questionId": 17
+    },
+    {
+      "id": "18",
+      "name": "محمد إياد أحمد غنيمه",
+      "questionId": 18
+    },
+    {
+      "id": "19",
+      "name": "محمد عبد سالم العياينه",
+      "questionId": 19
+    },
+    {
+      "id": "20",
+      "name": "محمد غالب خالد راشد",
+      "questionId": 20
+    },
+    {
+      "id": "21",
+      "name": "مروه أحمد عزات الجبر",
+      "questionId": 21
+    },
+    {
+      "id": "22",
+      "name": "نوار محمد يحيى صبحي الجعفري",
+      "questionId": 22
+    },
+    {
+      "id": "23",
+      "name": "ياسمين إبراهيم مرعي عبد الجليل",
+      "questionId": 23
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "text": "For oily skin and daytime use, which is generally preferred?",
+      "options": [
+        "O/W cream",
+        "W/O cream",
+        "Petrolatum layer",
+        "Solid wax"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 2,
+      "text": "Which test checks that the tube is properly sealed?",
+      "options": [
+        "Clarity test",
+        "Leakage test",
+        "Rancidity test",
+        "Melting test"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 3,
+      "text": "Which ingredient helps maintain eye moisture by forming a protective layer?",
+      "options": [
+        "Yellow soft paraffin",
+        "Glycerin",
+        "Pepsin",
+        "Water"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 4,
+      "text": "Why is beeswax added to some ointments?",
+      "options": [
+        "Increase firmness",
+        "Increase water content",
+        "Sterilize the product",
+        "Reduce melting point to zero"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 5,
+      "text": "Which ingredient makes an ointment easier to spread?",
+      "options": [
+        "Solid paraffin",
+        "Liquid paraffin",
+        "Carnauba wax",
+        "Zinc oxide"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 6,
+      "text": "What is a key advantage of paraffin over vegetable oils?",
+      "options": [
+        "Higher rancidity",
+        "Greater chemical stability",
+        "Water solubility",
+        "Rapid evaporation"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 7,
+      "text": "Why is the metal particles test important?",
+      "options": [
+        "Avoid corneal injury",
+        "Improve fragrance",
+        "Increase sweetness",
+        "Measure pH"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 8,
+      "text": "In an O/W cream, the continuous phase is:",
+      "options": [
+        "Oil",
+        "Water",
+        "Wax",
+        "Air"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 9,
+      "text": "What is the most critical requirement for ophthalmic ointments?",
+      "options": [
+        "Sweet taste",
+        "Sterility",
+        "Strong fragrance",
+        "Bright color"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 10,
+      "text": "What is the function of liquid paraffin in an eye ointment base?",
+      "options": [
+        "Reduce viscosity",
+        "Provide fragrance",
+        "Increase microbial growth",
+        "Make it water-soluble"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 11,
+      "text": "What is a sign of rancidity in a fatty base?",
+      "options": [
+        "Color or odor change",
+        "Higher sterility",
+        "Greater transparency",
+        "Lower viscosity only"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 12,
+      "text": "Lanolin is obtained from:",
+      "options": [
+        "Coconut",
+        "Sheep wool",
+        "Petroleum",
+        "Bees"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 13,
+      "text": "Which ingredient helps prevent separation of an ophthalmic ointment base?",
+      "options": [
+        "Distilled water",
+        "Wool fat (lanolin)",
+        "Pepsin",
+        "Alcohol"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 14,
+      "text": "For dry skin needing a protective oily layer, choose:",
+      "options": [
+        "W/O cream",
+        "O/W cream",
+        "Alcohol solution",
+        "Powder"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 15,
+      "text": "What does wool fat help incorporate into an oily eye ointment?",
+      "options": [
+        "Water-soluble components",
+        "Sand particles",
+        "Air bubbles",
+        "Metal fragments"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 16,
+      "text": "Which cream is usually lighter and less greasy?",
+      "options": [
+        "W/O cream",
+        "O/W cream",
+        "Petrolatum ointment",
+        "Cold cream"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 17,
+      "text": "Which cream is commonly used to remove makeup?",
+      "options": [
+        "Cleansing cream",
+        "Vanishing cream only",
+        "Eye ointment",
+        "PEG ointment only"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 18,
+      "text": "Cold cream is typically classified as:",
+      "options": [
+        "O/W",
+        "W/O",
+        "Dry powder",
+        "Hydrocarbon only"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 19,
+      "text": "Vanishing cream is usually:",
+      "options": [
+        "W/O",
+        "O/W",
+        "Anhydrous",
+        "Sterile eye ointment"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 20,
+      "text": "A patient dislikes a greasy residue. Which formulation is usually preferable?",
+      "options": [
+        "O/W cream",
+        "W/O cold cream",
+        "Petrolatum ointment",
+        "Solid paraffin"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 21,
+      "text": "Which test checks for microbial contamination in eye ointments?",
+      "options": [
+        "Leakage test",
+        "Sterility test",
+        "Spreadability test",
+        "Color test"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 22,
+      "text": "What is the main dosage form of an ointment?",
+      "options": [
+        "Liquid",
+        "Semisolid",
+        "Gas",
+        "Tablet"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 23,
+      "text": "Which ingredient is also known as petrolatum?",
+      "options": [
+        "Lanolin",
+        "Glycerin",
+        "Vaseline",
+        "Beeswax"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 24,
+      "text": "What approximate tear pH is mentioned for ophthalmic ointment compatibility?",
+      "options": [
+        "3.0",
+        "5.0",
+        "7.4",
+        "10.0"
+      ],
+      "answer": "C"
+    }
+  ]
+}
